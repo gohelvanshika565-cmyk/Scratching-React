@@ -4,7 +4,7 @@ A simple React Counter App with increment and decrement functionality.
 
 ### 🚀 Live Demo
 
-[View Counter App](counter-app-0-1.netlify.app)
+(counter-app-0-1.netlify.app)
 
 
 # Profile Card
